@@ -45,3 +45,10 @@ PS C:\react\reactcicd> ssh-keygen
 
 
 ### Docker is an environment which install all dependency required if they are skipped
+
+
+## github repo is protected by branch protection rules so that without circle/ci testing nobody can push code to master branch directly 
+
+# to solve above problem create a new branch which has master branch code 
+
+git push origin master:livecodingRepo  ->branch created clone of master
