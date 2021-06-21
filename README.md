@@ -42,3 +42,6 @@ PS C:\react\reactcicd> ssh-keygen
 //here only one branch ->master
 
 12. Changes reflected on GITHUB
+
+
+### Docker is an environment which install all dependency required if they are skipped
