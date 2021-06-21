@@ -1,4 +1,4 @@
-### CICD Pipeline Demo For React Application>>>>>>
+### CICD Pipeline Demo For React Application
 ### https://dev.to/preethamsathyamurthy/introduction-to-setting-up-a-ci-cd-pipeline-for-react-apps-34ha
 
 1.  create a new react app
@@ -42,3 +42,4 @@ PS C:\react\reactcicd> ssh-keygen
 //here only one branch ->master
 
 12. Changes reflected on GITHUB
+  -----------------------------------------------------------------------------------
