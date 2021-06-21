@@ -40,3 +40,5 @@ PS C:\react\reactcicd> ssh-keygen
 
 11. check branch git branch 
 //here only one branch ->master
+
+12. Changes reflected on GITHUB
