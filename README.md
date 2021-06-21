@@ -25,3 +25,18 @@ PS C:\react\reactcicd> ssh-keygen
 5. GO to project folder ->git init
 
 6. git add .
+
+7. git commit -m "initial react commit"
+
+8. Add Remote repo above define at step 4
+
+### git remote add origin https://github.com/shrutisugandhi/reactCICD.git
+
+9. Push code from local repo to remote repo
+
+## git push -u origin master
+
+10. Check code pushed from local repo to remote repo by login to github account -> ReactCICD Project
+
+11. check branch git branch 
+//here only one branch ->master
